@@ -409,7 +409,7 @@ index,lang_id
 408,sot
 409,ven
 410,ven
-411,sot
+411,xho
 412,tso
 413,tsn
 414,zul
@@ -444,7 +444,7 @@ index,lang_id
 443,ssw
 444,ssw
 445,ven
-446,nbl
+446,zul
 447,tsn
 448,ven
 449,xho
@@ -462,7 +462,7 @@ index,lang_id
 461,zul
 462,nso
 463,nso
-464,afr
+464,nbl
 465,tso
 466,ssw
 467,tso
@@ -628,7 +628,7 @@ index,lang_id
 627,ven
 628,xho
 629,afr
-630,ssw
+630,nbl
 631,zul
 632,ssw
 633,ssw
@@ -750,7 +750,7 @@ index,lang_id
 749,tso
 750,afr
 751,nbl
-752,nbl
+752,zul
 753,tso
 754,sot
 755,tsn
@@ -836,7 +836,7 @@ index,lang_id
 835,nbl
 836,eng
 837,ven
-838,nbl
+838,xho
 839,tso
 840,tsn
 841,nso
@@ -1233,7 +1233,7 @@ index,lang_id
 1232,tsn
 1233,afr
 1234,ven
-1235,zul
+1235,nbl
 1236,sot
 1237,eng
 1238,nbl
@@ -1449,7 +1449,7 @@ index,lang_id
 1448,ven
 1449,ven
 1450,xho
-1451,nso
+1451,tsn
 1452,sot
 1453,afr
 1454,tsn
@@ -1624,7 +1624,7 @@ index,lang_id
 1623,zul
 1624,afr
 1625,ven
-1626,ssw
+1626,zul
 1627,sot
 1628,afr
 1629,tso
@@ -1814,7 +1814,7 @@ index,lang_id
 1813,eng
 1814,sot
 1815,tso
-1816,xho
+1816,ssw
 1817,nbl
 1818,sot
 1819,zul
@@ -2447,7 +2447,7 @@ index,lang_id
 2446,nso
 2447,tsn
 2448,nso
-2449,nbl
+2449,zul
 2450,afr
 2451,afr
 2452,eng
@@ -3117,7 +3117,7 @@ index,lang_id
 3116,zul
 3117,tsn
 3118,zul
-3119,afr
+3119,nbl
 3120,nso
 3121,tsn
 3122,eng
@@ -3578,7 +3578,7 @@ index,lang_id
 3577,ssw
 3578,xho
 3579,zul
-3580,afr
+3580,eng
 3581,eng
 3582,nbl
 3583,nbl
@@ -4524,7 +4524,7 @@ index,lang_id
 4523,xho
 4524,afr
 4525,eng
-4526,zul
+4526,xho
 4527,afr
 4528,nso
 4529,ssw
@@ -4920,7 +4920,7 @@ index,lang_id
 4919,tsn
 4920,nso
 4921,ssw
-4922,xho
+4922,ven
 4923,ssw
 4924,tso
 4925,ssw
@@ -5208,7 +5208,7 @@ index,lang_id
 5207,sot
 5208,nbl
 5209,zul
-5210,afr
+5210,nbl
 5211,ven
 5212,sot
 5213,tso
@@ -5451,7 +5451,7 @@ index,lang_id
 5450,ssw
 5451,nbl
 5452,tso
-5453,sot
+5453,tsn
 5454,afr
 5455,zul
 5456,tso
